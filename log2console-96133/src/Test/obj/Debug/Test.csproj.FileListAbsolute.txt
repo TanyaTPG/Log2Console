@@ -1,0 +1,6 @@
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\Test\bin\Debug\Test.exe.config
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\Test\bin\Debug\Test.exe
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\Test\bin\Debug\Test.pdb
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\Test\bin\Debug\log4net.dll
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\Test\obj\Debug\Test.exe
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\Test\obj\Debug\Test.pdb

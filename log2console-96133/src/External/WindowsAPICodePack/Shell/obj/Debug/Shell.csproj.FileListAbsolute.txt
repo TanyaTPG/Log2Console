@@ -1,0 +1,14 @@
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\obj\Debug\Controls\CommandLinkWPF.baml
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\obj\Debug\ExplorerBrowser\ExplorerBrowser.WPF.baml
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\obj\Debug\Controls\CommandLinkWPF.g.cs
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\obj\Debug\ExplorerBrowser\ExplorerBrowser.WPF.g.cs
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\obj\Debug\Microsoft.WindowsAPICodePack.Shell_MarkupCompile.cache
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\obj\Debug\Microsoft.WindowsAPICodePack.Shell.g.resources
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\obj\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Tanya\Log4net Logs Viewer Tools\Log2Console source code\log2console-96133\src\External\WindowsAPICodePack\Shell\obj\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
